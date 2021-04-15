@@ -77,3 +77,7 @@ variable "gcp_reserved1_address_prefix_length" {}
 variable "gcp_reserved2_name" {}
 variable "gcp_reserved2_address" {}
 variable "gcp_reserved2_address_prefix_length" {}
+
+## Megaport Variables
+
+variable "megaport_mcr_id" {}

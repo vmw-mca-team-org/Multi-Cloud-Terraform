@@ -1,3 +1,3 @@
 data megaport_mcr example_mcr {
-    mcr_id = "ac683837"
+    mcr_id = var.megaport_mcr_id
 }
